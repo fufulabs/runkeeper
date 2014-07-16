@@ -3,7 +3,7 @@
 	"type": "library",
 	"description": "PHP wrapper for Runkeeper Health Graph API",
 	"keywords": ["runkeeper"],
-	"homepage": "http://github.com/madewithlove/runkeeper",
+	"homepage": "https://github.com/fufulabs/runkeeper",
 	"require": {
 		"symfony/yaml": "2.4.*",
 		"ext-json": "*",
