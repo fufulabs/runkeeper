@@ -5,7 +5,7 @@
 	"keywords": ["runkeeper"],
 	"homepage": "https://github.com/fufulabs/runkeeper",
 	"require": {
-		"symfony/yaml": "dev-master",
+		"symfony/yaml": "~2.4",
 		"ext-json": "*",
 		"ext-curl": "*"
 	},
